@@ -1,4 +1,4 @@
-The PyCitySchools_starter.ipynb selects data from a table of information about student in a school district. The base table is made by merging a school table ('schools_complete.csv') and a student table ('students_complete.csv') together
+The PyCitySchools_starter.ipynb selects data from a table of information about student in a school district. The base table is made by merging a school table ('schools_complete.csv') and a student table ('students_complete.csv') together. A write-up is included to draw two conclusions from the constructed data tables.
 
 # Result
 The PyCitySchools_starter notebook arranges data into pandas dataframes to create the tables with columns as shown below
