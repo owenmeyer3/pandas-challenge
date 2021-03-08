@@ -17,6 +17,12 @@ The PyCitySchools_starter notebook arranges data into pandas dataframes to creat
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+  ![](images/distsum.png)
+
+
+
+
+
 ### School Summary
 
 * Create an overview table that summarizes key metrics about each school, including:
@@ -30,6 +36,12 @@ The PyCitySchools_starter notebook arranges data into pandas dataframes to creat
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+
+  ![](images/schoolsum.png)
+
+
+
+
 
 ### Top Performing Schools (By % Overall Passing)
 
@@ -45,17 +57,41 @@ The PyCitySchools_starter notebook arranges data into pandas dataframes to creat
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+  ![](images/topschools.png)
+
+
+
+
+
 ### Bottom Performing Schools (By % Overall Passing)
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+
+![](images/bottomschools.png)
+
+
+
+
 
 ### Math Scores by Grade\*\*
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
+![](images/mathbygrade.png)
+
+
+
+
+
 ### Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
+![](images/readingbygrade.png)
+
+
+
+
 
 ### Scores by School Spending
 
@@ -66,10 +102,24 @@ The PyCitySchools_starter notebook arranges data into pandas dataframes to creat
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
+  ![](images/byspending.png)
+
+
+
+
+
 ### Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
+![](images/size.png)
+
+
+
+
+
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+
+![](images/type.png)
